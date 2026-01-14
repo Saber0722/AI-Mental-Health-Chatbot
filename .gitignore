@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# AI Model Training Models
+
+# Dialogue Generation Models
+ai_model/dialogue_generation/cache/*
+ai_model/dialogue_generation/models/*
+
+# Sentiment Analysis Models
+ai_model/sentiment_analysis/data/*
+ai_model/sentiment_analysis/models/*
+

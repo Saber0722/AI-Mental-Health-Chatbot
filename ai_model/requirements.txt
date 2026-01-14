@@ -1,0 +1,12 @@
+tensorflow==2.15.0
+transformers==4.35.0
+datasets
+huggingface-hub
+numpy
+matplotlib
+seaborn
+pandas
+ipykernel
+streamlit
+scikit-learn 
+torch
